@@ -3,3 +3,8 @@ bin/
 include/
 lib/
 pip-selfcheck.json
+data
+.idea/
+.ipynb_checkpoints
+donkey/
+share/
